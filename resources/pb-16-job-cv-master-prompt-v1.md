@@ -1,4 +1,4 @@
-# JOB — MASTER PROMPT PENTRU CV ADAPTAT
+# JOB - MASTER PROMPT PENTRU CV ADAPTAT
 
 Resursă originală ISAC / AI Society România · v1 · keyword `JOB`
 
@@ -59,7 +59,7 @@ Un model AI nu rulează ATS-ul companiei și nu poate oferi un scor real. Auditu
 
 ## Sursă oficială pentru formula XYZ
 
-Life at Google — „Create Your Resume for Google: Tips and Advice”, formula apare la 05:35: https://www.youtube.com/watch?v=BYUy1yvjHxE
+Life at Google - „Create Your Resume for Google: Tips and Advice”, formula apare la 05:35: https://www.youtube.com/watch?v=BYUy1yvjHxE
 
 Inspirat de sursa video: https://www.youtube.com/shorts/Cp24ZRS7uCc
 Creatorul original nu este confirmat în brief. Acest material este comentariu original în română.

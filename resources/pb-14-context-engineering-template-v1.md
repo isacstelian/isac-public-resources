@@ -1,4 +1,4 @@
-# CONTEXT ENGINEERING — TEMPLATE COPY-PASTE
+# CONTEXT ENGINEERING - TEMPLATE COPY-PASTE
 
 Resursă originală ISAC / AI Society România · v1 · keyword `CONTEXT`
 
@@ -43,12 +43,12 @@ Dacă nu poți verifica ceva, marchează clar „NEVERIFICAT”.
 
 ## Sistemul în 6 straturi
 
-1. **Rezultat** — descrie ce trebuie să existe la final.
-2. **Context** — explică situația, publicul și motivul.
-3. **Reguli** — spune ce este obligatoriu și ce este interzis.
-4. **Exemple** — arată unul bun și, dacă ajută, unul greșit.
-5. **Fișiere + skills** — oferă sursa de adevăr și instrucțiunile reutilizabile. Un skill este o procedură salvată pentru un task repetat.
-6. **Verificare** — definește testul care dovedește că munca este gata.
+1. **Rezultat** - descrie ce trebuie să existe la final.
+2. **Context** - explică situația, publicul și motivul.
+3. **Reguli** - spune ce este obligatoriu și ce este interzis.
+4. **Exemple** - arată unul bun și, dacă ajută, unul greșit.
+5. **Fișiere + skills** - oferă sursa de adevăr și instrucțiunile reutilizabile. Un skill este o procedură salvată pentru un task repetat.
+6. **Verificare** - definește testul care dovedește că munca este gata.
 
 ## Regula de siguranță
 
@@ -56,8 +56,8 @@ Nu încărca parole, chei API, CNP, date bancare sau documente confidențiale î
 
 ## Surse oficiale
 
-- Anthropic — Building effective agents: https://www.anthropic.com/engineering/building-effective-agents
-- Claude Platform — Prompt engineering overview: https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview
+- Anthropic - Building effective agents: https://www.anthropic.com/engineering/building-effective-agents
+- Claude Platform - Prompt engineering overview: https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview
 
 Inspirat de sursa video: https://www.instagram.com/reel/DYZ0P66IVgp/
 Creatorul original nu este confirmat în brief. Acest material este comentariu original în română, nu traducerea resursei altui creator.
